@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
  
-**AI Engineer — LLM apps, agentic systems, VLM fine-tuning. I take ML from research to production.**
+**AI Engineer. I've built LLM apps, agentic systems and fine-tuned VLMs. I take ML from research to production.**
  
 I'm CTO & Co-Owner at [Street Garms](https://streetgarms.com), a UK vintage clothing retailer, where I build and ship the AI systems that run the business — fine-tuned vision and language models, agentic workflows and the MLOps stack underneath them. Before that I spent a decade across digital consulting (Razorfish) and my own consultancy, [Nomadic Digital](https://www.nomadicdigital.co.uk/). Recently I achieved a Distinction in a Level 7 AI Data Specialist course (Master's equivalent). I develop daily with Claude Code.
  
