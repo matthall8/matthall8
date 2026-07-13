@@ -2,7 +2,7 @@
  
 **AI Engineer — LLM apps, agentic systems, VLM fine-tuning. I take ML from research to production.**
  
-I'm CTO & Co-Owner at [Street Garms](https://streetgarms.com), a UK vintage clothing retailer, where I build and ship the AI systems that run the business — fine-tuned vision and language models, agentic workflows and the MLOps stack underneath them. Before that I spent a decade across digital consulting (Razorfish) and my own consultancy, [Nomadic Digital](https://www.nomadicdigital.co.uk/). Recently I achieved a Distinction in a Level 7 AI Data Specialist course (MsC Equivalent). I develop daily with Claude Code.
+I'm CTO & Co-Owner at [Street Garms](https://streetgarms.com), a UK vintage clothing retailer, where I build and ship the AI systems that run the business — fine-tuned vision and language models, agentic workflows and the MLOps stack underneath them. Before that I spent a decade across digital consulting (Razorfish) and my own consultancy, [Nomadic Digital](https://www.nomadicdigital.co.uk/). Recently I achieved a Distinction in a Level 7 AI Data Specialist course (Master's equivalent). I develop daily with Claude Code.
  
 ## 🔨 What I've built
  
