@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
  
-**I'm an AI Engineer. I've built LLM apps, agentic systems and fine-tuned VLMs. I take ML from research to production.**
+**AI Engineer. I've built production LLM apps, agentic systems and a fine-tuned VLM. I take ML from research to production.**
  
 I'm CTO & Co-Owner at [Street Garms](https://streetgarms.com), a UK vintage clothing retailer, and Founder at [Nomadic Digital](https://www.nomadicdigital.co.uk/), an AI Strategy, Engineering and Marketing agency. 
 
