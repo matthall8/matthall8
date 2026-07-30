@@ -2,9 +2,9 @@
  
 **AI Engineer who takes ML projects from research to production including LLM apps, agentic systems and a fine-tuned VLM.**
  
-I'm CTO & Co-Owner at [Street Garms](https://streetgarms.com), a UK vintage clothing retailer, and Founder at [Nomadic Digital](https://www.nomadicdigital.co.uk/), an AI Strategy, Engineering and Marketing agency. 
+I'm CTO & Co-Owner at [Street Garms](https://streetgarms.com), a leading UK vintage clothing retailer, and Founder at [Nomadic Digital](https://www.nomadicdigital.co.uk/), an AI Strategy, Engineering and Marketing agency. 
 
-I build and ship the AI systems behind both businesses including a fine-tuned vision-language model, agentic workflows and the MLOps stack underneath them. Recently I achieved a Distinction in a Level 7 AI Data Specialist course (Master's equivalent).
+I build and ship the AI systems behind both businesses including a fine-tuned vision-language model, agentic workflows and the MLOps stack underneath them. Recently I achieved a Distinction in a Level 7 AI Data Specialist course (master's equivalent).
  
 ## 🔨 What I've built
  
@@ -17,11 +17,11 @@ I build and ship the AI systems behind both businesses including a fine-tuned vi
  
 ## 🧰 Stack
 
-**ML:** PyTorch · Hugging Face Transformers & Hub · Florence-2 · LangGraph
-**Serving & MLOps:** RunPod Serverless · Docker · GitHub Actions CI · Weights & Biases · FastAPI
-**Product:** Python · JavaScript/Node · Flask · React · Shopify
+**Languages:** Python · Full-stack JavaScript · SQL
+**AI Engineering:** PyTorch · Hugging Face Transformers & Hub · VLM fine-tuning (Florence-2) · LangGraph · LangChain · Claude Code · LLM APIs (Anthropic, OpenAI), prompt engineering
+**Serving & MLOps:** RunPod Serverless · Docker · GitHub Actions CI · Weights & Biases · FastAPI · GCP (Cloud run, secrets manager) · FastAPI · Flask · Weights & Biases
+**Data:** Pandas · NumPy · scikit-learn · Jupyter Notebooks
  
 ## 📫 Elsewhere
  
 [LinkedIn](https://www.linkedin.com/in/matthall-ai) · [nomadicdigital.co.uk](https://www.nomadicdigital.co.uk/) · matt@nomadicdigital.co.uk
- 
