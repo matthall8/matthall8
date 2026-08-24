@@ -20,7 +20,7 @@ I build and ship the AI systems behind both businesses including a fine-tuned vi
 
 **Languages:** Python · Full-stack JavaScript · SQL
 
-**AI Engineering:** PyTorch · Hugging Face Transformers & Hub · VLM fine-tuning (Florence-2) · LangGraph · LangChain · Claude Code · LLM APIs (Anthropic, OpenAI) · prompt engineering
+**AI Engineering:** PyTorch · Hugging Face Transformers & Hub · VLM fine-tuning (Florence-2) · LangGraph · LangChain · Claude Code · LLM APIs (Anthropic, OpenAI) · prompt engineering· Pydantic
 
 **Serving & MLOps:** RunPod Serverless · Docker · GitHub Actions CI · Weights & Biases · GCP (Cloud Run, Secret Manager) · FastAPI · Flask · Streamlit App
 
